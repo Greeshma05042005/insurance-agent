@@ -1,0 +1,23 @@
+Policy Number: POL98765
+Policyholder Name: Sneha Patel
+Effective Dates: 01-02-2026 to 31-01-2027
+
+Date: 28-06-2026
+Time: 11:40 AM
+Location: Mumbai
+Description: Vehicle damaged due to heavy rainfall and fallen tree branch.
+
+Claimant: Sneha Patel
+Third Parties: Municipal Corporation
+Contact Details: 9012345678
+
+Asset Type: Car
+Asset ID: CAR555
+
+Estimated Damage: 45000
+
+Claim Type: Vehicle
+
+Attachments: Photos
+
+Initial Estimate: 45000

@@ -1,0 +1,23 @@
+Policy Number: POL54321
+Policyholder Name: Priya Sharma
+Effective Dates: 01-03-2026 to 28-02-2027
+
+Date: 15-06-2026
+Time: 04:15 PM
+Location: Hyderabad
+Description: Rear-end collision at traffic signal.
+
+Claimant: Priya Sharma
+Third Parties: Rahul Verma
+Contact Details: 9988776655
+
+Asset Type: Car
+Asset ID: CAR245
+
+Estimated Damage: 35000
+
+Claim Type: Vehicle
+
+Attachments:
+
+Initial Estimate:

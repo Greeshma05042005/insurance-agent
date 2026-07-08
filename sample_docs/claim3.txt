@@ -1,0 +1,23 @@
+Policy Number: POL78945
+Policyholder Name: Ramesh Kumar
+Effective Dates: 01-04-2026 to 31-03-2027
+
+Date: 10-06-2026
+Time: 09:20 AM
+Location: Chennai
+Description: The accident appears to be staged and possible fraud was reported.
+
+Claimant: Ramesh Kumar
+Third Parties: Unknown
+Contact Details: 9876501234
+
+Asset Type: Bike
+Asset ID: BIKE009
+
+Estimated Damage: 22000
+
+Claim Type: Vehicle
+
+Attachments: Police Report
+
+Initial Estimate: 22000

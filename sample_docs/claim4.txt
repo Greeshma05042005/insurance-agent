@@ -1,0 +1,23 @@
+Policy Number: POL65432
+Policyholder Name: Anjali Rao
+Effective Dates: 01-05-2026 to 30-04-2027
+
+Date: 20-06-2026
+Time: 06:45 PM
+Location: Pune
+Description: Driver suffered injuries after collision with truck.
+
+Claimant: Anjali Rao
+Third Parties: Amit Singh
+Contact Details: 9123456789
+
+Asset Type: Car
+Asset ID: CAR789
+
+Estimated Damage: 55000
+
+Claim Type: Injury
+
+Attachments: Medical Report
+
+Initial Estimate: 55000
